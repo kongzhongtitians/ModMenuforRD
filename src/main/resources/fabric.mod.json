@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "mmrd",
+	"version": "1.0.0",
+	"name": "Mod Menu for RD",
+	"description": "a mod menu",
+	"authors": [
+		"kongzhongtitian"
+	],
+	"license": "BSD-3-Clause-Clear",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+      "gd.rf.kongzhongtitian.mmrd.MMRD"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.17.3"
+	}
+}
